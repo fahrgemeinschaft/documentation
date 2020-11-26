@@ -15,15 +15,16 @@ one-time and regular trips
 - results with start only?
 - results with destination only?
 - results with start & destination?
-- results with when changing date?
+- results when changing date?
 - is place selection working?
 - detail-view of trip possible?
 
 4. advertising (basics)
 one-time & recurring trips
+- is place selection working?
 - advertising possible with information in mandatory input boxes only (start, destination, date, time)?
 - advertising possible with information in all input boxes?
-- is stored data (mytrips) equal to entered information?
+- is stored data (mytrips) equal to entered/ advertised information?
 
 5.
 editing trips (mytrips form):
