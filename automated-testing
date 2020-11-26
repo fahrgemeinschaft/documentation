@@ -1,10 +1,13 @@
 1. register
 - registration possible?
+- activation-email sent out?
 - activation possible?
+- sending of activation-email is blocked once email-adress has been bounced?
 
 2. login
 with existing & not-existing user:
-- login possible?
+- login possible with existing user?
+- login denied with not-existing user?
 - logout possible?
 
 3. searching (basics)
