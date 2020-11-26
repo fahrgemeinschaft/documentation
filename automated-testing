@@ -1,6 +1,9 @@
 1. register
 
 2. login
+with existing & not-existing user:
+- login
+- logout
 
 3. searching (basics)
 "offers" & "searches":
