@@ -1,26 +1,35 @@
 1. register
+- registration possible?
 
 2. login
 with existing & not-existing user:
-- login
-- logout
+- login possible?
+- logout possible?
 
 3. searching (basics)
-"offers" & "searches":
+one-time and regular trips
 - results with start only?
 - results with destination only?
 - results with start & destination?
 - results with when changing date?
 - is place selection working?
+- detail-view of trip possible?
 
 4. advertising (basics)
-- advertising with mandatory information possible?
-- advertising with information in all fields possible?
+one-time & recurring trips
+- advertising possible with information in mandatory input boxes only (start, destination, date, time)?
+- advertising possible with information in all input boxes?
 - is stored data (mytrips) equal to entered information?
-- mytrips: editing & changing trips possible?
 
-5. miscellaneous
-- is contact form sending emails?
+5.
+editing trips (mytrips form):
+one-time and regular trips
+- changing data possible?
+- deleting trip possible?
+
+6. miscellaneous
+- contact form is sending emails?
+- upload user-image possible?
 
 
 
